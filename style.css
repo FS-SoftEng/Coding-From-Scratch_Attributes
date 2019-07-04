@@ -1,0 +1,20 @@
+
+
+#fbPage {
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 200px;
+    padding-bottom: 200px;
+    color: white;
+}
+
+
+#Secretariat {
+    padding-left: 400px;
+    padding-top: 125px;
+}
+
+
+body {
+    background-color: gray;
+}
